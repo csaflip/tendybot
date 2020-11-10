@@ -1,2 +1,3 @@
 /venv
-tenderscraper/__pycache__
+tenderscraper/tenderscraper/__pycache__
+.vscode
